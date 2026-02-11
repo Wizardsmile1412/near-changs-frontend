@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "Near Changs - Home Repair Services",
+    "description": "Find and book trusted home repair services near you. Connect with skilled professionals for all your home maintenance needs."
+  },
+  "Home": {
+    "title": "Near Changs",
+    "subtitle": "Find and book trusted home repair services near you.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Browse Services"
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "english": "English",
+    "thai": "Thai"
+  }
+}
